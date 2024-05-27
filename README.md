@@ -20,12 +20,15 @@ Quarter 1:
 
 Quarter 2:
 
+![Quarter 2](https://github.com/Sanjoe27/Local-Business-Padma-Shop-Insights-Dashboard/assets/98551759/c8c2765a-4561-422b-9571-0e7e8c6b163e)
 
 
 
 Quarter 3:
 
-
+![Quarter 3](https://github.com/Sanjoe27/Local-Business-Padma-Shop-Insights-Dashboard/assets/98551759/52ce9adf-5b0b-4807-ba2e-c4167251398b)
 
 
 Quarter 4:
+
+![Quarter 4](https://github.com/Sanjoe27/Local-Business-Padma-Shop-Insights-Dashboard/assets/98551759/76a7d7f3-0cc8-41f3-ab3f-d4fad5151b17)
